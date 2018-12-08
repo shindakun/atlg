@@ -13,3 +13,4 @@ Here you can find the code I've been writing for my Attempting to Learn Go posts
 | [Building a Downloader Part 05](https://dev.to/shindakun/attempting-to-learn-go---building-a-downloader-part-05-44o) | - |
 | [Consuming a REST API](https://dev.to/shindakun/attempting-to-learn-go---consuming-a-rest-api-5c7g) |  [src](/go-api-01/main.go) |
 | [Continuing REST Adventures](https://dev.to/shindakun/attempting-to-learn-go---continuing-rest-adventures-2l4l) | [src](/go-api-02/main.go) |
+| [Now Sending REST Requests](https://dev.to/shindakun/attempting-to-learn-go---now-sending-rest-requests-akp) | [src](/go-api-03/main.go) |
