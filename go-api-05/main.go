@@ -9,8 +9,8 @@ import (
 	"net/http"
 	"text/template"
 
+	c "github.com/shindakun/atlg/go-api-03/client"
 	"github.com/shindakun/envy"
-	"github.com/shindakun/mailgunner"
 )
 
 const apiurl = "https://api.mailgun.net/v3/youremaildomain.com"
@@ -35,7 +35,7 @@ func sendEmail(buf bytes.Buffer, email string) {
 		panic(err)
 	}
 
-	mgc := mailgunner.NewMgClient(apiurl, mgKey)
+	mgc := c.NewMgClient(apiurl, mgKey)
 
 	req, err := mgc.FormatEmailRequest(email, "youremailaddress@",
 		"Test email", buf.String())
