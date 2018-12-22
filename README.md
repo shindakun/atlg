@@ -15,4 +15,4 @@ Here you can find the code I've been writing for my Attempting to Learn Go posts
 | [Continuing REST Adventures](https://dev.to/shindakun/attempting-to-learn-go---continuing-rest-adventures-2l4l) | [src](/go-api-02/main.go) |
 | [Now Sending REST Requests](https://dev.to/shindakun/attempting-to-learn-go---now-sending-rest-requests-akp) | [src](/go-api-03/main.go) |
 | [REST API and A Bit On Templates](https://dev.to/shindakun/attempting-to-learn-go---rest-api-and-a-bit-on-templates-4kca) | [src](/go-api-04/main.go) |
-| [Sending Email Via API Again]() | [src](/go-api-05/main.go) |
+| [Sending Email Via API Again](https://dev.to/shindakun/attempting-to-learn-go---sending-email-via-api-again-2e4e) | [src](/go-api-05/main.go) |
