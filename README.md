@@ -16,3 +16,4 @@ Here you can find the code I've been writing for my Attempting to Learn Go posts
 | [Now Sending REST Requests](https://dev.to/shindakun/attempting-to-learn-go---now-sending-rest-requests-akp) | [src](/go-api-03/main.go) |
 | [REST API and A Bit On Templates](https://dev.to/shindakun/attempting-to-learn-go---rest-api-and-a-bit-on-templates-4kca) | [src](/go-api-04/main.go) |
 | [Sending Email Via API Again](https://dev.to/shindakun/attempting-to-learn-go---sending-email-via-api-again-2e4e) | [src](/go-api-05/main.go) |
+| [Let's Get Modular!](https://dev.to/shindakun/attempting-to-learn-go---lets-get-modular-390i) | [src](https://github.com/shindakun/mailgunner) |
