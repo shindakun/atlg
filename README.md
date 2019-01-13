@@ -18,3 +18,4 @@ Here you can find the code I've been writing for my Attempting to Learn Go posts
 | [Sending Email Via API Again](https://dev.to/shindakun/attempting-to-learn-go---sending-email-via-api-again-2e4e) | [src](/go-api-05/main.go) |
 | [Let's Get Modular!](https://dev.to/shindakun/attempting-to-learn-go---lets-get-modular-390i) | [src](https://github.com/shindakun/mailgunner) |
 | [Let's Get Modular - Again!](https://dev.to/shindakun/attempting-to-learn-go---lets-get-modular---again-10cd) | [src](https://github.com/shindakun/mailgunner) |
+| [Let's Get Modular - Building DevLog Part 01](https://dev.to/shindakun/attempting-to-learn-go---building-dev-log-part-01-1c3m) | [src](/go-devsite-01/main.go) |
