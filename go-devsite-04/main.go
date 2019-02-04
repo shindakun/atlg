@@ -165,7 +165,7 @@ func makePost(fm map[string]interface{}, contents []byte, s [][]byte) (*template
 			post.CoverImage = ""
 		}
 	} else {
-		post.Description = ""
+		post.CoverImage = ""
 	}
 
 	seriesIntf, ok := fm["series"]
@@ -174,10 +174,10 @@ func makePost(fm map[string]interface{}, contents []byte, s [][]byte) (*template
 		if ok {
 			post.Series = series
 		} else {
-			post.Series = " "
+			post.Series = ""
 		}
 	} else {
-		post.Description = " "
+		post.Series = ""
 	}
 
 	pBody := contents[len(s[1])+(len(delimiter)*2):]
