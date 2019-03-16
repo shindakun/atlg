@@ -24,3 +24,6 @@ Here you can find the code I've been writing for my Attempting to Learn Go posts
 | [Building DevLog Part 04](https://dev.to/shindakun/attempting-to-learn-go---building-dev-log-part-04-2bok) | [src](/go-devsite-04/main.go) |
 | [Building DevLog Part 05](https://dev.to/shindakun/attempting-to-learn-go---building-dev-log-part-05-4mo1) | [src](/go-devsite-05/main.go) |
 | [Listing Files By Extension 01](https://dev.to/shindakun/attempting-to-learn-go---listing-files-by-extension-1n10) | [src](/go-sort-01/main.go) |
+| [Listing Files By Extension 02](https://dev.to/shindakun/attempting-to-learn-go---sorting-and-moving-files-by-extension-227j) | [src](/go-sort-01/main.go) |
+| [Dev.to API 01](https://dev.to/shindakun/interacting-with-the-devto-article-api-4g34) | [src](/go-devtoapai-01/main.go) |
+| [Dev.to API 02]() | see above code |

@@ -62,8 +62,10 @@ func main() {
 			if len(ext) == 1 {
 				m["no-ext"] = append(m["no-ext"], fileName)
 			}
-			sort.Strings(m[ext[len(ext)-1]])
 		}
+	}
+	for ext := range m {
+		sort.Strings(m[ext])
 	}
 	values := reflect.ValueOf(m).MapKeys()
 
