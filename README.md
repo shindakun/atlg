@@ -27,3 +27,4 @@ Here you can find the code I've been writing for my Attempting to Learn Go posts
 | [Listing Files By Extension 02](https://dev.to/shindakun/attempting-to-learn-go---sorting-and-moving-files-by-extension-227j) | [src](/go-sort-01/main.go) |
 | [Dev.to API 01](https://dev.to/shindakun/interacting-with-the-devto-article-api-4g34) | [src](/go-devtoapi-01/main.go) |
 | [Dev.to API 02](https://dev.to/shindakun/interacting-with-the-devto-article-api---again-sort-of-2o8g) | see above code |
+| [Issuer 01](https://dev.to/shindakun/attempting-to-learn-go-issuer-01-5f0k) | [src](/go-issuer-01/main.go) |
