@@ -29,3 +29,4 @@ Here you can find the code I've been writing for my Attempting to Learn Go posts
 | [Dev.to API 02](https://dev.to/shindakun/interacting-with-the-devto-article-api---again-sort-of-2o8g) | see above code |
 | [Issuer 01](https://dev.to/shindakun/attempting-to-learn-go-issuer-01-5f0k) | [src](/go-issuer-01/main.go) |
 | [Issuer 02](https://dev.to/shindakun/attempting-to-learn-go-issuer-02-3nif) | [src](/go-issuer-02/main.go) |
+| [Issuer 03](https://dev.to/shindakun/attempting-to-learn-go-issuer-03-cloud-function-go-27co) | [src](/go-issuer-03/main.go) |
